@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -44,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
