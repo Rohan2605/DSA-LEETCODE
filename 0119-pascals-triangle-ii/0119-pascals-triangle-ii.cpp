@@ -1,19 +1,15 @@
 class Solution {
 public:
     vector<int> getRow(int n) {
-        vector<vector<int>> ans;
+        vector<int> row;
+        long long val = 1;
+        
+        row.push_back(1);
 
-        for(int i = 0; i <n+1; i++)
-        {
-            vector<int> row(i+1, 1);
-            for(int j = 1; j < i; j++)
-            {
-                row[j] = ans[i-1][j-1] + ans[i-1][j];
-               
-            }
-            ans.push_back(row);
-            if(i == n) return row;
+        for(int i=1; i<=n; i++){
+            val = val * (n-i+1)/i;
+            row.push_back(val);
         }
-        return {};
+        return row;
     }
 };
