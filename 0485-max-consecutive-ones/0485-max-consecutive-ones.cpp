@@ -8,7 +8,7 @@ public:
             if(x == 1) cnt++;
             else cnt = 0;
             
-            if(cnt>ans) ans = cnt;
+            ans = max(cnt, ans);
         }
         return ans;
     }
