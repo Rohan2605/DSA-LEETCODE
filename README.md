@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2404-most-frequent-even-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
