@@ -1,25 +1,12 @@
 class Solution {
 public:
     int findNonMinOrMax(vector<int>& nums) {
-        
         if(nums.size()<3) return -1;
-        
-        int ans = -1;
-        int maxEl = nums[0]; 
-        int minEl = nums[0];
 
-        for(int i=1; i<nums.size(); i++){
-            if(nums[i]<minEl){
-                ans = minEl;
-                minEl = nums[i];
-            }
-            else if(nums[i]>maxEl){
-                ans = maxEl;
-                maxEl = nums[i];
-            }
-            else return nums[i];
-        }
+        int a = nums[0];
+        int b = nums[1];
+        int c = nums[2];
 
-        return ans;
+        return a+b+c-min({a,b,c})-max({a,b,c});
     }
 };
