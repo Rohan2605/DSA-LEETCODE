@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0228-summary-ranges](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0283-move-zeroes) |
