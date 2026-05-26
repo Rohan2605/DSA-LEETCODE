@@ -2,22 +2,24 @@ class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& score) {
         vector<string> ranks;
-        int val;
+        int n = score.size();
+        vector<int> copyScore = score;
+        sort(copyScore.begin(), copyScore.end(), greater<int>());
 
-        for(int i=0; i<score.size(); i++){
-            int cnt =0;
-            for(int j=0; j<score.size(); j++){
-                if(i == j) continue;
-                else if(score[i] - score[j] > 0) cnt++;
-            }
-            if(score.size()-cnt == 1) ranks.push_back("Gold Medal");
-            else if(score.size()-cnt == 2) ranks.push_back("Silver Medal");
-            else if(score.size()-cnt == 3) ranks.push_back("Bronze Medal");
-            else {
-                val = score.size()-cnt;
-                ranks.push_back(to_string(val));
-            }
+        map<int, string> mp;
+
+        for(int i=0; i<n; i++){
+            if(i == 0) mp[copyScore[i]] = "Gold Medal";
+            else if(i == 1) mp[copyScore[i]] = "Silver Medal";
+            else if(i == 2) mp[copyScore[i]] = "Bronze Medal";
+            else mp[copyScore[i]] = to_string(i+1);
         }
+
+        for(int x: score){
+            ranks.push_back(mp[x]);
+        }
+
         return ranks;
+
     }
 };
