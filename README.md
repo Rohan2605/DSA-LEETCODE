@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 ## Dynamic Programming
 |  |
 | ------- |
