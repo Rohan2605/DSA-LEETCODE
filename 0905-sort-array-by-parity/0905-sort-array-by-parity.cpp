@@ -3,14 +3,16 @@ public:
     vector<int> sortArrayByParity(vector<int>& nums) {
         vector<int> ans;
 
-        for(int x: nums){
-            if(x%2==0) ans.push_back(x);
+        int i=0, j=nums.size()-1;
+
+        while(i<=j){
+            if(nums[i]%2!=0){
+                swap(nums[i], nums[j]);
+                j--;
+            }
+            else i++;
         }
 
-        for(int x: nums){
-             if(x%2!=0) ans.push_back(x);
-        }
-
-        return ans;
+        return nums;
     }
 };
