@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0506-relative-ranks) |
+| [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1046-last-stone-weight) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -125,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
