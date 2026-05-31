@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0506-relative-ranks) |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1046-last-stone-weight) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -169,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
