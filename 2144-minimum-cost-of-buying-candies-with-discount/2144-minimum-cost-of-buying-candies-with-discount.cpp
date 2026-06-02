@@ -1,22 +1,22 @@
 class Solution {
 public:
     int minimumCost(vector<int>& cost) {
-        if(cost.size() == 1) return cost[0];
-        else if(cost.size() == 2) return cost[0] + cost[1];
+        vector<int> freq(101, 0);
+        int cnt = 0, ans = 0;
 
-        priority_queue<int> pq(cost.begin(),cost.end());
-        int ans = 0, cnt = 1;
+        for(int x: cost){
+            freq[x]++;
+        }
 
-        while(pq.size()>0){
-            if(cnt == 3){
-                cnt = 0;
+        for(int i=100; i>=0; i--){
+            while(freq[i] > 0){
+                if(cnt == 2) cnt = 0;
+                else{
+                    ans += i;
+                    cnt++;
+                }
+                freq[i]--;
             }
-            else{
-                int x = pq.top(); 
-                ans += x;
-            }
-            pq.pop();
-            cnt++;
         }
         return ans;
     }
