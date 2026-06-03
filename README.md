@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
