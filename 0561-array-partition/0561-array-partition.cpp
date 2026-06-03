@@ -1,13 +1,28 @@
 class Solution {
 public:
     int arrayPairSum(vector<int>& nums) {
-        priority_queue<int, vector<int>, greater<int>> pq(nums.begin(), nums.end());
+
+        vector<int> freq(20001, 0);
+
+        for(int x : nums)
+            freq[x + 10000]++;
+
         int ans = 0;
-        while(pq.size()>0){
-            ans += pq.top();
-            pq.pop();
-            pq.pop();
+        bool take = true;
+
+        for(int i = 0; i < 20001; i++) {
+
+            while(freq[i]--) {
+
+                int value = i - 10000;
+
+                if(take)
+                    ans += value;
+
+                take = !take;
+            }
         }
+
         return ans;
     }
 };
