@@ -7,19 +7,16 @@ public:
             freq[x]++;
         }
 
-        vector<int> expectedH;
+        int cnt = 0, j=0;
 
         for(int i=0; i<101; i++){
             while(freq[i]>0){
-                expectedH.push_back(i);
+                if(heights[j] != i) cnt++;
                 freq[i]--;
+                j++;
             }
         }
-
-        int cnt = 0;
-        for(int i=0; i<heights.size(); i++){
-            if(heights[i] != expectedH[i]) cnt++;
-        }
+        
         return cnt;
     }
 };
