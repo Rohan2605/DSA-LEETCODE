@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1089-duplicate-zeros) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0942-di-string-match) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
