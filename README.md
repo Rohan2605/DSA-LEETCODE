@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1051-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
