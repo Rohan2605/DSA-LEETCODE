@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
