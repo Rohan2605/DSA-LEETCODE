@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0942-di-string-match](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0942-di-string-match) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
