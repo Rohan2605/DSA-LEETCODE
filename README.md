@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
