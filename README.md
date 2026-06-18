@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
