@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2404-most-frequent-even-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
