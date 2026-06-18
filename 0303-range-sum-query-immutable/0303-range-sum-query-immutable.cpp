@@ -6,11 +6,11 @@ public:
     }
     
     int sumRange(int left, int right) {
-        int sum=0;
-        for(int i=left; i<=right; i++){
-            sum += arr[i];
-        }
-        return sum;
+        // int sum=0;
+        // for(int i=left; i<=right; i++){
+        //     sum += arr[i];
+        // }
+        return accumulate(arr.begin()+left, arr.begin()+right+1, 0);
     }
 };
 
