@@ -1,6 +1,20 @@
 class Solution {
 public:
-    int peakIndexInMountainArray(vector<int>& arr) {
-        return max_element(arr.begin(), arr.end()) - arr.begin();
+    int peakIndexInMountainArray(vector<int>& nums) {
+        int peak;
+        int n = nums.size();
+        int i=0, j=n-1;
+        
+        while(i<j){
+            int mid = i + (j-i)/2;
+
+            if(nums[mid-1] < nums[mid] && nums[mid+1] < nums[mid]){
+                peak = mid;
+                return mid;
+            }
+            else if(nums[mid] < nums[mid+1]) i = mid + 1;
+            else j = mid;
+        }
+        return peak;
     }
 };
