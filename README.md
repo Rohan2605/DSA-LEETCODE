@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0941-valid-mountain-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
