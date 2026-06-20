@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
