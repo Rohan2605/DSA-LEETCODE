@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0942-di-string-match](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0942-di-string-match) |
+| [1189-maximum-number-of-balloons](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [2404-most-frequent-even-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
