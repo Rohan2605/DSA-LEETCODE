@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0942-di-string-match](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0942-di-string-match) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
