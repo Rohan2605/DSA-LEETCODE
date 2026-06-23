@@ -11,24 +11,19 @@ public:
     ListNode *detectCycle(ListNode *head) {
         ListNode* fast = head;
         ListNode* slow = head;
-        
-        while(fast != NULL && fast->next != NULL){
+
+        while(fast && fast->next){
             fast = fast->next->next;
             slow = slow->next;
 
             if(fast == slow) break;
         }
+        if(fast == NULL|| fast->next == NULL) return NULL;
 
-        if(fast == NULL || fast->next == NULL) return NULL;
-        
-        ListNode* ptr1 = head;
-        ListNode* ptr2 = slow; // meeting point
-
-        while(ptr1 != ptr2){
-            ptr1 = ptr1->next;
-            ptr2 = ptr2->next;
+        while(head != slow){
+            head = head->next;
+            slow = slow->next;
         }
-
-        return ptr1;
+        return slow;
     }
 };
