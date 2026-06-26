@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -443,4 +448,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
