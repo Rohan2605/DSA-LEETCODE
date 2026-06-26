@@ -1,16 +1,19 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        bool bit = n&1;
-        while(n){
-            n = n>>1;
+        // bool bit = n&1;
+        // while(n){
+        //     n = n>>1;
 
-            bool currBit = n&1;
-            if(currBit == bit) return false;
+        //     bool currBit = n&1;
+        //     if(currBit == bit) return false;
 
-            bit = currBit;
-        }
+        //     bit = currBit;
+        // }
 
-        return true;
+        // return true;
+
+        unsigned int x = n^(n>>1);
+        return (x & (x+1))==0;
     }
 };
