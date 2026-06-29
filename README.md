@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
