@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
