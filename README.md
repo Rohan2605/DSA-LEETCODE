@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0338-counting-bits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
