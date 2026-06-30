@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
+| [2396-strictly-palindromic-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
 |  |
