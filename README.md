@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [3110-score-of-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Sorting
