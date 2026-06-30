@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
