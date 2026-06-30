@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2942-find-words-containing-character](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
