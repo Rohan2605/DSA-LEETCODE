@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2469-convert-the-temperature) |
