@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Enumeration
 |  |
 | ------- |
