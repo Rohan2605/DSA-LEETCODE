@@ -1,10 +1,13 @@
 class Solution {
 public:
     vector<int> transformArray(vector<int>& nums) {
+        int j=0;
         for(int i=0; i<nums.size(); i++){
-            nums[i] = nums[i]%2;
+            if(nums[i] % 2 == 0)nums[j++] = 0;
         }   
-        sort(nums.begin(), nums.end());
+        while(j<nums.size()){
+            nums[j++] = 1;
+        }
         return nums;
     }
 };
