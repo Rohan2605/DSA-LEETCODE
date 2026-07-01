@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1046-last-stone-weight) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
@@ -573,4 +577,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
