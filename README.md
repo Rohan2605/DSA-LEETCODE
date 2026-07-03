@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
