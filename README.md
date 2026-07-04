@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2325-decode-the-message](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2325-decode-the-message) |
 | [2404-most-frequent-even-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2325-decode-the-message) |
 | [2942-find-words-containing-character](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
