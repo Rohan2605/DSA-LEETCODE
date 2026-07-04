@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2974-minimum-number-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3620-network-recovery-pathways) |
