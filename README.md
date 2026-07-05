@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1301-number-of-paths-with-max-score](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0338-counting-bits) |
+| [1301-number-of-paths-with-max-score](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
