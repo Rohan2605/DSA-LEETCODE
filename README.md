@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3701-compute-alternating-sum) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
