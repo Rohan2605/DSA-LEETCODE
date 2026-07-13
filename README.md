@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
