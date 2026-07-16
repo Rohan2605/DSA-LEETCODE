@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
@@ -713,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
