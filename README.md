@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1528-shuffle-string) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0682-baseball-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
 | ------- |
