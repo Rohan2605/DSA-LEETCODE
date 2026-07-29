@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3668-restore-finishing-order) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3516-find-closest-person) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3467-transform-array-by-parity) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Graph Theory
 |  |
 | ------- |
