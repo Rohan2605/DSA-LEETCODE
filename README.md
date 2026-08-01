@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0561-array-partition) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -790,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
