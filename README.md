@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -798,4 +801,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
