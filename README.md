@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3731-find-missing-elements](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
