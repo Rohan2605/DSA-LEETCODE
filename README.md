@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1563-stone-game-v) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1563-stone-game-v) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
