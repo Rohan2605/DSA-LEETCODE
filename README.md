@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
