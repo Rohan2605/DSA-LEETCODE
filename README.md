@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3280-convert-date-to-binary) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Graph Theory
@@ -817,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
