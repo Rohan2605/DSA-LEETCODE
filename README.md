@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1563-stone-game-v) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1872-stone-game-viii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 ## Backtracking
@@ -875,12 +880,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Rohan2605/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
